@@ -1,3 +1,4 @@
 test
 another line
 no mistake this time
+foo
